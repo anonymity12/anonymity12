@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 Hi, I’m @anonymity12, a independent software engineer living in Chengdu
+👀 I’m interested in Coding, Cooking, Meditation, Reading
+🌱 I’m currently learning Java and Vue, and Web3
+💞️ I’m looking to collaborate on Web3 learning group or Serious-Game development
+📫 How to reach me, mail me to paulblue97@yahoo.com
+
 <!--
 **anonymity12/anonymity12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
