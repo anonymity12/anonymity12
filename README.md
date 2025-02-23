@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @anonymity12, a independent software engineer living in Chengdu
+- 👋 Hi, I’m @anonymity12(郑天天）, a independent software engineer living in Chengdu, Sichuan
 - 👀 I’m interested in Coding, Cooking, Meditation, Reading
-- 🌱 I’m currently learning Java and Vue, and Web3
+- 🌱 I’m currently learning Golang ~Java~ and React ~Vue~, and Web3
 - 💞️ I’m looking to collaborate on Web3 learning group or Serious-Game development
 - 📫 How to reach me, mail me to paulblue97@yahoo.com
 
