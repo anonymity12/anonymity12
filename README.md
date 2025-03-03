@@ -8,8 +8,7 @@
 
 ### LeetCode 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/zhengrongtian?theme=light&font=Oswald)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/tiantianpaul?theme=light&font=Oswald)
 
 
 <!--
