@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on Web3 learning group or Serious-Game development
 - 📫 How to reach me, mail me to paulblue97@yahoo.com
 
+### LeetCode 
+
+![LeetCode 统计](https://leetstats.now.sh/?username=zhengrongtian&theme=dark)
+
 <!--
 **anonymity12/anonymity12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
