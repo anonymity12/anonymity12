@@ -8,7 +8,9 @@
 
 ### LeetCode 
 
-![LeetCode 统计](https://leetstats.now.sh/?username=zhengrongtian&theme=dark)
+![LeetCode 解题数量](https://img.shields.io/endpoint?url=https://leetcode-stats-api.herokuapp.com/zhengrongtian)
+
+
 
 <!--
 **anonymity12/anonymity12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
