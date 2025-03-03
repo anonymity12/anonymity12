@@ -8,7 +8,7 @@
 
 ### LeetCode 
 
-![LeetCode 解题数量](https://img.shields.io/endpoint?url=https://leetcode-stats-api.herokuapp.com/zhengrongtian)
+![LeetCode Stats](https://leetcard.jacoblin.cool/zhengrongtian?theme=light&font=Oswald)
 
 
 
