@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @anonymity12(天天Paul）, a independent software engineer living in Chengdu, Sichuan
-- 👀 I’m interested in Coding, Cooking, Meditation, Reading
-- 🌱 I’m currently learning Golang ~Java~ and React ~Vue~, and Web3
-- 💞️ I’m looking to collaborate on Web3 learning group or Serious-Game development
+- 👀 I’m interested in Coding, Moto-ride, Meditation, Reading
+- 🌱 I’m currently learning Rust, ~Golang,Java~ and React ~Vue~, and Web3
+- 💞️ I’m looking to collaborate on Solana learning group or Serious-Game development
 - 📫 How to reach me, mail me to paulblue97@yahoo.com
 
 ### LeetCode 
